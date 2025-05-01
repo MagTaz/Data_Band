@@ -42,8 +42,5 @@ To bridge the communication gap for the hearing-impaired community and promote i
 ## 🧑‍💻 Author
 
 **Mohamed Mohamed Barakat**  
-[GitHub Profile](https://github.com/your-github-username) *(اختياري)*  
-[LinkedIn](https://linkedin.com/in/your-link) *(اختياري)*
-
 ---
 
