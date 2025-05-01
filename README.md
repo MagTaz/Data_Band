@@ -1,16 +1,70 @@
-# data_band
+> 📱 **Data-Band**  
+> Real-time speech-to-text app built with Flutter, designed for accessibility and ease of communication.
 
-A new Flutter project.
+![Banner](images/WelcomeScreen.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Data-Band
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This Flutter application helps individuals who are deaf or hard of hearing by converting spoken language into written text in real-time. The app uses speech recognition to display transcribed speech on the screen, enabling easier communication.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+- Real-time speech recognition
+- Clean and simple UI for quick readability
+- Designed for accessibility
+
+## 🛠️ Technologies Used
+- Flutter
+- Google Speech-to-Text API
+
+## 🎯 Objective
+To bridge the communication gap for the hearing-impaired community and promote more inclusive communication.
+
+## 📱 Screenshots
+
+### Welcome Screen
+![Welcome](images/WelcomeScreen.png)
+
+
+
+
+
+
+
+### Sign up Screen
+![SignUp](images/SignupScreen.png)
+
+
+
+
+
+
+
+### Login Screen
+![Login](images/LoginScreen.png)
+
+
+
+
+
+
+### Home Screen
+![Home](images/HomeScreen.png)
+
+
+
+
+
+
+
+### Home Screen (Change Language)
+![Home](images/HomeScreen_changeLanguage.png)
+
+
+
+
+
+
+## 🧑‍💻 Author
+Mohamed Mohamed Barakat
