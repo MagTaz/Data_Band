@@ -21,45 +21,11 @@ This Flutter application helps individuals who are deaf or hard of hearing by co
 ## 🎯 Objective
 To bridge the communication gap for the hearing-impaired community and promote more inclusive communication.
 
-## 📱 Screenshots
-
-### Welcome Screen
-![Welcome](images/WelcomeScreen.png)
 
 
+## 🎬 Demo GIF
 
-
-
-
-
-### Sign up Screen
-![SignUp](images/SignupScreen.png)
-
-
-
-
-
-
-
-### Login Screen
-![Login](images/LoginScreen.png)
-
-
-
-
-
-
-### Home Screen
-![Home](images/HomeScreen.png)
-
-
-
-
-
-
-
-### Home Screen (Change Language)
-![Home](images/HomeScreen_changeLanguage.png)
+![App Demo](images/OverView.gif)
 
 
 
