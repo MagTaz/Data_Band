@@ -1,7 +1,7 @@
 > 📱 **Data-Band**  
 > A real-time speech-to-text app built with Flutter, designed to support individuals who are deaf or hard of hearing.
 
-![Banner](images/WelcomeScreen.png)
+![Banner](images/Logo.jpg)
 
 ---
 
