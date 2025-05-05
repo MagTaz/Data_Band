@@ -36,9 +36,11 @@ Ideal for companies that distribute devices to partners or clients and want a se
 ---
 
 ## 🎬 Demo
-p align="center">
+
+<p align="center">
   <img src="images/OverView.gif" width="400" alt="App Demo"/>
 </p>
+
 
 ---
 ## 🧑‍💻 Author
